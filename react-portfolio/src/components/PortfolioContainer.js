@@ -1,4 +1,4 @@
-es (31 sloc)  1.13 KB
+
    
 import React, { useState } from 'react';
 import NavTabs from './NavTabs';
@@ -28,9 +28,9 @@ export default function PortfolioContainer() {
 
   return (
     <div className="portCont">
-      {/* We are passing the currentPage from state and the function to update it */}
+      {/*Here  the currentPage pass from state and the function to update it */}
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
-      {/* Here we are calling the renderPage method which will return a component  */}
+      {/*  calling the render page method that make  return a component  */}
       {renderPage()}
     </div>
   );
