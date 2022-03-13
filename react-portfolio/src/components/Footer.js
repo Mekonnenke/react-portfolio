@@ -1,13 +1,13 @@
 import React from 'react';
-import { FaGithubSquare } from 'react-icons/fa';
-import { AiFillLinkedin } from 'react-icons/ai';
-import { ImStackoverflow } from 'react-icons/im' ;
+// import { FaGithubSquare } from 'react-icons/fa';
+// import { AiFillLinkedin } from 'react-icons/ai';
+// import { ImStackoverflow } from 'react-icons/im' ;
 
 export default function Footer() {
 	return (
 		<footer className="footer pt-1">
 			<div className="container text-center">
-				<div>
+				{/* <div>
 					<a className="iconLink" href='https://github.com/CodyG-2021'>
 						<FaGithubSquare size={40} />
 					</a>
@@ -18,7 +18,7 @@ export default function Footer() {
 						<ImStackoverflow size={35} />
 					</a>
 					<span className="footerCopy" >© Mekonnen Moh 🎲</span>
-				</div>
+				</div> */}
 			</div>
 		</footer>
 	);
