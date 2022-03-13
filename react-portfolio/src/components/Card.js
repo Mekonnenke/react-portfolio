@@ -5,11 +5,11 @@ export default function Cards() {
 		<div className="container">
 			<div className="row justify-content-center">
 
-				<div className="card bg-dark border-primary" style={{ width: '18rem' }}>
+				<div className="card bg-info border-dark" style={{ width: '22rem' }}>
 					<img src="./images/movieGrab.png" className="card-img-top" alt="..." />
 					<div className="card-body">
 						<h5 className="cardTitle text-center">lyrics-finder</h5>
-						{/* <p className="cardText">Some quick example text to build on the card title and make up the bulk of the card's content.</p> */}
+						{ <p className="cardText">This app is a first project in my coding class and it alows users to generate musics lyric  </p> }
 						<div className="container">
 							<div className="row justify-content-center">
 								<a href="https://chamibia.github.io/lyrics-finder/" className="cardBtn">Website</a>
@@ -19,7 +19,7 @@ export default function Cards() {
 					</div>
 				</div>
 
-				<div className="card bg-dark border-primary" style={{ width: '18rem' }}>
+				<div className="card bg-info border-dark" style={{ width: '22rem' }}>
 					<img src="./images/brew3.png" className="card-img-top brewImg" alt="..." />
 					<div className="card-body">
 						<h5 className="cardTitle text-center">MVC Tech Bloger</h5>
@@ -33,7 +33,7 @@ export default function Cards() {
 					</div>
 				</div>
 
-				<div className="card bg-dark border-primary" style={{ width: '18rem' }}>
+				<div className="card bg-info border-dark" style={{ width: '22rem' }}>
 					<img src="./images/budget.png" className="card-img-top budgetImg" alt="..." />
 					<div className="card-body">
 						<h5 className="cardTitle text-center"> Express Note Taker</h5>
@@ -50,7 +50,7 @@ export default function Cards() {
 			</div>
 			<div className="row justify-content-center">
 
-				<div className="card bg-dark border-primary" style={{ width: '18rem' }}>
+				<div className="card bg-info border-dark" style={{ width: '22rem' }}>
 					<img src="./images/workout.png" className="card-img-top workoutImg" alt="..." />
 					<div className="card-body">
 						<h5 className="cardTitle text-center">TingDong</h5>
@@ -64,7 +64,7 @@ export default function Cards() {
 					</div>
 				</div>
 
-				<div className="card bg-dark border-primary" style={{ width: '18rem' }}>
+				<div className="card bg-info border-dark" style={{ width: '22rem' }}>
 					<img src="./images/tech.png" className="card-img-top techImg" alt="..." />
 					<div className="card-body">
 						<h5 className="cardTitle text-center">Weather Dashboard</h5>
@@ -78,11 +78,11 @@ export default function Cards() {
 					</div>
 				</div>
 
-				<div className="card bg-dark border-primary" style={{ width: '18rem' }}>
+				<div className="card bg-info border-dark" style={{ width: '22rem' }}>
 					<img src="./images/note.png" className="card-img-top noteImg" alt="..." />
 					<div className="card-body">
 						<h5 className="cardTitle text-center">Taskination</h5>
-						{/* <p className="cardText">Some quick example text to build on the card title and make up the bulk of the card's content.</p> */}
+						{ <p className="cardText">This Html app developed for code Bootcamping.</p> }
 						<div className="container">
 							<div className="row justify-content-center">
 								<a href="https://mekonnenke.github.io/HTML_CSS-_challengeAssignmnet/" className="cardBtn">Website</a>
