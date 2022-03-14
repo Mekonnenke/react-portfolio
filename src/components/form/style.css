@@ -1,0 +1,28 @@
+.form {
+    margin: 20px;
+  }
+  
+  .form input {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+  }
+  
+  .helloPerson {
+    margin-left: 25px;
+    color: ffff;
+  }
+  
+  .formCont {
+    background: #240636;
+    background: radial-gradient(
+      circle,
+      #95abff
+      #06529f   
+    );
+      border-radius: 15px;
+      padding: 15px;
+      max-width: 500px;
+      margin: auto;
+  }

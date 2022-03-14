@@ -1,0 +1,110 @@
+:root {
+  --white: #f8f8ff;
+  --purple: #240636;;
+  --blue: #233adcrgb(0, 76, 255);
+}
+
+
+.portfolio-app {
+  width: 100%;
+ 
+  
+}
+.topNav {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    90deg,
+    #240636,
+    #c171f0
+  );
+}
+
+.portCont .topNav {
+  border-bottom: 3px outset #5d0756;
+}
+
+.nav-item a {
+  color: #240636;
+  font-weight: 600;
+}
+
+.nav-item .active {
+  color: rgb(184, 95, 95);
+}
+
+div h1 p {
+  color: white;
+}
+
+.portCont {
+  min-width: 526px;
+}
+
+.profilePic {
+	float: left;
+	margin: 10px 25px 15px 0px;
+	max-width: 13rem;
+	border-radius: 5rem;
+	border-width: 10px;
+	border-style: double solid solid double;
+	box-shadow: -5px -5px 0px 0px var(--purple);
+}
+
+.carousel-inner {
+	max-height: 400px;
+	min-height: 400px;
+}
+
+.carousel-item {
+	max-height: 400px;
+	min-height: 400px;
+}
+
+.carousel-inner .carousel-caption {
+	margin-bottom: 300px;
+}
+
+.card {
+	margin: 10px;
+  border-radius: 25px;
+ 
+}
+
+.card:hover {
+	box-shadow: inset 0px 0px 8px rgba(232, 102, 236, 1),
+	0 0 15px rgba(232, 102, 236, 1);
+}
+
+.cardHeader {
+	background-color: blueviolet;
+	border-radius: 10px;
+}
+.cardBtn {
+	font: 500;
+	margin: 3px;
+	border-radius: 10px;
+	border-style: solid;
+	border-color: var(--purple);
+	padding: 2px 10px 2px 10px;
+	background-color:#240636;
+}
+
+.cardBtn:hover {
+	background-color:  #c171f0;
+}
+
+.paraTop{
+	margin-top:  15px;
+}
+.cardTitle{
+	font-size: 20px;
+}
+
+.brewImg,
+.budgetImg,
+.workoutImg,
+.techImg,
+.noteImg{
+	min-height: 192px;
+	max-height: 192px;
+}

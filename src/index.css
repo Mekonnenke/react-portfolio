@@ -1,0 +1,26 @@
+.footer {
+  margin-top: 3rem;
+  padding: 2rem;
+  background: rgb(88, 58, 180);
+  background: linear-gradient(
+    90deg,
+    #240636,
+    #b247f0
+    
+  );
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+	min-width: 320px;
+  font-weight: 500;
+}
+
+.footerCopy{
+margin: 15px 0px 0px 15px;
+}
+
+.iconLink {
+	color: white;
+  padding:1.5rem;
+}
