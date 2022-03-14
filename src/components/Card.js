@@ -6,10 +6,10 @@ export default function Cards() {
 			<div className="row justify-content-center">
 
 				<div className="card bg-secondary border-dark" style={{ width: '22rem' }}>
-					<img src="./images/image-3.JPG" className="card-img-top" alt="..." />
+					<img src="./images/image-3.JPG" className="card-img-top lyric-finder" alt="..." />
 					<div className="card-body">
 						<h5 className="cardTitle text-center">lyrics-finder</h5>
-						{ <p className="cardText">cccThis app is a first project in my coding class and it alows users to generate musics lyric  </p> }
+						{ <p className="cardText">This app is a first project in my coding class and it alows users to generate musics lyric  </p> }
 						<div className="container">
 							<div className="row justify-content-center">
 								<a href="https://chamibia.github.io/lyrics-finder/" className="cardBtn">Website</a>
@@ -20,10 +20,10 @@ export default function Cards() {
 				</div>
 
 				<div className="card bg-secondary border-dark" style={{ width: '22rem' }}>
-					<img src="./images/image-6.JPG" className="card-img-top brewImg" alt="..." />
+					<img src="./images/image-6.JPG" className="card-img-top tech-bloger" alt="..." />
 					<div className="card-body">
 						<h5 className="cardTitle text-center">MVC Tech Bloger</h5>
-						{/* <p className="cardText">Some quick example text to build on the card title and make up the bulk of the card's content.</p> */}
+						{ <p className="cardText">It ia an SQL server blog app to post people thought .</p>}
 						<div className="container">
 							<div className="row justify-content-center">
 								<a href="https://pure-cliffs-54858.herokuapp.com/" className="cardBtn">Website</a>
@@ -34,10 +34,10 @@ export default function Cards() {
 				</div>
 
 				<div className="card bg-secondary border-dark" style={{ width: '22rem' }}>
-					<img src="./images/image-4.JPG" className="card-img-top budgetImg" alt="..." />
+					<img src="./images/image-4.JPG" className="card-img-top note-taker" alt="..." />
 					<div className="card-body">
 						<h5 className="cardTitle text-center"> Express Note Taker</h5>
-						{/* <p className="cardText">Some quick example text to build on the card title and make up the bulk of the card's content.</p> */}
+						{ <p className="cardText">This app develop to keep notes and important info. </p> }
 						<div className="container">
 							<div className="row justify-content-center">
 								<a href=" https://desolate-headland-54764.herokuapp.com/notes" className="cardBtn">Website</a>
@@ -51,7 +51,7 @@ export default function Cards() {
 			<div className="row justify-content-center">
 
 				<div className="card bg-secondary border-dark" style={{ width: '22rem' }}>
-					<img src="./images/image-1.JPG" className="card-img-top workoutImg" alt="..." />
+					<img src="./images/image-1.JPG" className="card-img-top TingDong" alt="..." />
 					<div className="card-body">
 						<h5 className="cardTitle text-center">TingDong</h5>
 						{/* <p className="cardText">Some quick example text to build on the card title and make up the bulk of the card's content.</p> */}
@@ -65,7 +65,7 @@ export default function Cards() {
 				</div>
 
 				<div className="card bg-secondary border-dark" style={{ width: '22rem' }}>
-					<img src="./images/image-5.JPG" className="card-img-top " alt="..." />
+					<img src="./images/image-5.JPG" className="card-img-top weatherDashboard " alt="..." />
 					<div className="card-body">
 						<h5 className="cardTitle text-center">Weather Dashboard</h5>
 						{/* <p className="cardText">Some quick example text to build on the card title and make up the bulk of the card's content.</p> */}
@@ -79,7 +79,7 @@ export default function Cards() {
 				</div>
 
 				<div className="card bg-secondary border-dark" style={{ width: '22rem' }}>
-					<img src="./images/image-2.JPG" className="card-img-top noteImg" alt="..." />
+					<img src="./images/image-2.JPG" className="card-img-top taskination" alt="..." />
 					<div className="card-body">
 						<h5 className="cardTitle text-center">Taskination</h5>
 						{ <p className="cardText">This Html app developed for code Bootcamping.</p> }

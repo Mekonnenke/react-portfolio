@@ -1,7 +1,7 @@
 :root {
   --white: #f8f8ff;
   --purple: #240636;;
-  --blue: #233adcrgb(0, 76, 255);
+  --blue: #c171f0;
 }
 
 
@@ -50,15 +50,6 @@ div h1 p {
 	box-shadow: -7px -7px 0px 0px var(#240636);
 }
 
-.carousel-inner {
-	max-height: 400px;
-	min-height: 400px;
-}
-
-.carousel-item {
-	max-height: 400px;
-	min-height: 400px;
-}
 
 .carousel-inner .carousel-caption {
 	margin-bottom: 300px;
@@ -100,11 +91,22 @@ div h1 p {
 	font-size: 20px;
 }
 
-.brewImg,
-.budgetImg,
-.workoutImg,
-.techImg,
-.noteImg{
+.lyric-finder,
+.tech-bloger,
+.note-taker,
+.TingDong,
+.weatherDashboard,
+.taskination{
 	min-height: 192px;
 	max-height: 192px;
+}
+/* for carousel */
+.carousel-inner {
+	max-height: 400px;
+	min-height: 400px;
+}
+
+.carousel-item {
+	max-height: 400px;
+	min-height: 400px;
 }
