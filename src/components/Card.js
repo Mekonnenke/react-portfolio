@@ -9,7 +9,7 @@ export default function Cards() {
 					<img src="./images/image-3.JPG" className="card-img-top" alt="..." />
 					<div className="card-body">
 						<h5 className="cardTitle text-center">lyrics-finder</h5>
-						{ <p className="cardText">This app is a first project in my coding class and it alows users to generate musics lyric  </p> }
+						{ <p className="cardText">cccThis app is a first project in my coding class and it alows users to generate musics lyric  </p> }
 						<div className="container">
 							<div className="row justify-content-center">
 								<a href="https://chamibia.github.io/lyrics-finder/" className="cardBtn">Website</a>

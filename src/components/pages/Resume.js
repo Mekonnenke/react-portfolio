@@ -1,5 +1,5 @@
 import React from 'react';
-// import { FaFileDownload } from 'react-icons/fa';
+ import { FaFileDownload } from 'react-icons/fa';
 
 export default function Resume() {
 	return (
@@ -45,7 +45,7 @@ export default function Resume() {
 				<ul>
 					<li>Full stack web development
 						<ul>
-							<li>HTML, CSS, JavaScript, jQuery, APIs, node.js, SQL, express, oop, mysql, orm, mvc, NoSql, PWA, React, MERN</li>
+							<li>HTML, CSS, JavaScript, jQuery, APIs, node.js, SQL, Express,OOP, mysql, orm, mvc, MongoDB, PWA, React, MERN</li>
 						</ul>
 					</li>
 					<li>Graphic design
@@ -56,9 +56,9 @@ export default function Resume() {
 				</ul>
 
 
-				<h5>Download My Full Resume</h5>
-				<a className="iconLink" href='./files/Mekonnen Mohammed Resume 2022.pdf' download="Mekonnen Mohammed 2022">
-					{/* <FaFileDownload size={85} /> */}
+				<h5>Download my resume here</h5>
+				<a className="iconLink" href='./images/resume.pdf' download="Mekonnen Mohammed 2022">
+					{<FaFileDownload size={45} /> }
 				</a>
 
 			</div>

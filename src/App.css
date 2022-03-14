@@ -20,7 +20,7 @@
 }
 
 .portCont .topNav {
-  border-bottom: 3px outset #5d0756;
+  border-bottom: 3px outset #240636,;
 }
 
 .nav-item a {
@@ -29,11 +29,11 @@
 }
 
 .nav-item .active {
-  color: rgb(184, 95, 95);
+  color: #c171f0;
 }
 
 div h1 p {
-  color: white;
+  color:#f8f8ff ;
 }
 
 .portCont {
@@ -43,11 +43,11 @@ div h1 p {
 .profilePic {
 	float: left;
 	margin: 10px 25px 15px 0px;
-	max-width: 13rem;
-	border-radius: 5rem;
+	max-width: 11rem;
+	border-radius: 1.5rem;
 	border-width: 10px;
-	border-style: double solid solid double;
-	box-shadow: -5px -5px 0px 0px var(--purple);
+	border-style: solid double;
+	box-shadow: -7px -7px 0px 0px var(#240636);
 }
 
 .carousel-inner {
@@ -71,12 +71,12 @@ div h1 p {
 }
 
 .card:hover {
-	box-shadow: inset 0px 0px 8px rgba(232, 102, 236, 1),
-	0 0 15px rgba(232, 102, 236, 1);
+	box-shadow: inset 0px 0px 8px #c171f0,
+	0 0 15px #c171f0;
 }
 
 .cardHeader {
-	background-color: blueviolet;
+	background-color: #9634cf;
 	border-radius: 10px;
 }
 .cardBtn {

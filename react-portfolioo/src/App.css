@@ -46,7 +46,7 @@ div h1 p {
 	max-width: 13rem;
 	border-radius: 5rem;
 	border-width: 10px;
-	border-style: double solid solid double;
+	border-style: solid double;
 	box-shadow: -5px -5px 0px 0px var(--purple);
 }
 
@@ -107,4 +107,7 @@ div h1 p {
 .noteImg{
 	min-height: 192px;
 	max-height: 192px;
+}
+.profilePic{
+	min-height: 192px;
 }

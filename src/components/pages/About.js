@@ -5,9 +5,9 @@ export default function About() {
 		<div className="container">
 			<div className='mx-5 mt-3 p-3 aboutMe'>
 				<h1 className="text-center">About Mekonnen Mohammed</h1>
-				<img className="profilePic" src="./images/prof-pic.jpg " alt=" Mekonnen Mohammed" />
+				<img className="profilePic" src="./images/image-7.JPG " alt=" Mekonnen Mohammed" />
 				<p className="paraTop">
-					Born and raised in Addis Ababa Ethiopia and moved to canada in September 2017.  I have a deploma on
+					Born and raised in Addis Ababa, Ethiopia and moved to canada in September 2017.  I have a deploma on
 					Information technology from Queens College, Ethiopia and certificaye on graphic design from Tom film production, and Shaw Academy, Ireland.
 				</p>
 				<br />
