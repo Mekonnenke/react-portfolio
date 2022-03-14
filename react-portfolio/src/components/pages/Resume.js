@@ -8,11 +8,18 @@ export default function Resume() {
 			<div className="container justify-contact-center">
 				<h4>Education</h4>
 				<ul>
-                    <li>University of Toronto BootCamp October 2021 - March 2022
+                    <li>University of Toronto Boot camp October 2021 - March 2022
 						<ul>
 							<li>Full Stack Web Development</li>
 						</ul>
 					</li>
+					<li>Conestoga College  2019 -2020
+						<ul>
+							<li>Software Engineering -Not comleted</li>
+						</ul>
+					</li>
+
+					
                     <li>Shaw Academy 2019
 						<ul>
 							<li>Graphic design</li>
@@ -40,6 +47,11 @@ export default function Resume() {
 						<ul>
 							<li>HTML, CSS, JavaScript, jQuery, APIs, node.js, SQL, express, oop, mysql, orm, mvc, NoSql, PWA, React, MERN</li>
 						</ul>
+					</li>
+					<li>Graphic design
+								<ul>
+									<li>Adobe photoshop, Illustrator, Video editing </li>
+								</ul>
 					</li>
 				</ul>
 

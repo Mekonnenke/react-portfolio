@@ -6,8 +6,8 @@ function App() {
   return (
     <div className="portfolio-app">
      <PortfolioContainer />
-			<br />
-			<br />
+		
+		
 			
 			<Footer />
     </div>

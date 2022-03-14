@@ -11,10 +11,11 @@
   
   .helloPerson {
     margin-left: 25px;
+    color: ffff;
   }
   
   .formCont {
-    background: #005898;
+    background: #240636;
     background: radial-gradient(
       circle,
       #95abff

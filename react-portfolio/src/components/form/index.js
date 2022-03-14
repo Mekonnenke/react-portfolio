@@ -44,7 +44,7 @@ function Form() {
 			);
 			return;
 		}
-		alert(`Hello ${userName}`);
+		alert(`Hi there ${userName}`);
 
 		// If everything goes according to plan, we want to clear out the input after a successful registration.
 		setUserName('');
