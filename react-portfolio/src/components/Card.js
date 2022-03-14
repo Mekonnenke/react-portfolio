@@ -6,7 +6,7 @@ export default function Cards() {
 			<div className="row justify-content-center">
 
 				<div className="card bg-secondary border-dark" style={{ width: '22rem' }}>
-					<img src="./images/movieGrab.png" className="card-img-top" alt="..." />
+					<img src="./images/image-3.JPG" className="card-img-top" alt="..." />
 					<div className="card-body">
 						<h5 className="cardTitle text-center">lyrics-finder</h5>
 						{ <p className="cardText">This app is a first project in my coding class and it alows users to generate musics lyric  </p> }
@@ -20,7 +20,7 @@ export default function Cards() {
 				</div>
 
 				<div className="card bg-secondary border-dark" style={{ width: '22rem' }}>
-					<img src="./images/brew3.png" className="card-img-top brewImg" alt="..." />
+					<img src="./images/image-6.JPG" className="card-img-top brewImg" alt="..." />
 					<div className="card-body">
 						<h5 className="cardTitle text-center">MVC Tech Bloger</h5>
 						{/* <p className="cardText">Some quick example text to build on the card title and make up the bulk of the card's content.</p> */}
@@ -34,7 +34,7 @@ export default function Cards() {
 				</div>
 
 				<div className="card bg-secondary border-dark" style={{ width: '22rem' }}>
-					<img src="./images/budget.png" className="card-img-top budgetImg" alt="..." />
+					<img src="./images/image-4.JPG" className="card-img-top budgetImg" alt="..." />
 					<div className="card-body">
 						<h5 className="cardTitle text-center"> Express Note Taker</h5>
 						{/* <p className="cardText">Some quick example text to build on the card title and make up the bulk of the card's content.</p> */}
@@ -51,7 +51,7 @@ export default function Cards() {
 			<div className="row justify-content-center">
 
 				<div className="card bg-secondary border-dark" style={{ width: '22rem' }}>
-					<img src="./images/workout.png" className="card-img-top workoutImg" alt="..." />
+					<img src="./images/image-1.JPG" className="card-img-top workoutImg" alt="..." />
 					<div className="card-body">
 						<h5 className="cardTitle text-center">TingDong</h5>
 						{/* <p className="cardText">Some quick example text to build on the card title and make up the bulk of the card's content.</p> */}
@@ -65,7 +65,7 @@ export default function Cards() {
 				</div>
 
 				<div className="card bg-secondary border-dark" style={{ width: '22rem' }}>
-					<img src="./images/tech.png" className="card-img-top techImg" alt="..." />
+					<img src="./images/image-5.JPG" className="card-img-top " alt="..." />
 					<div className="card-body">
 						<h5 className="cardTitle text-center">Weather Dashboard</h5>
 						{/* <p className="cardText">Some quick example text to build on the card title and make up the bulk of the card's content.</p> */}
@@ -79,7 +79,7 @@ export default function Cards() {
 				</div>
 
 				<div className="card bg-secondary border-dark" style={{ width: '22rem' }}>
-					<img src="./images/note.png" className="card-img-top noteImg" alt="..." />
+					<img src="./images/image-2.JPG" className="card-img-top noteImg" alt="..." />
 					<div className="card-body">
 						<h5 className="cardTitle text-center">Taskination</h5>
 						{ <p className="cardText">This Html app developed for code Bootcamping.</p> }
