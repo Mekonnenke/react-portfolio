@@ -40,7 +40,7 @@ export default function Cards() {
 						{ <p className="cardText">This app develop to keep notes and important info. </p> }
 						<div className="container">
 							<div className="row justify-content-center">
-								<a href=" https://stormy-tundra-79706.herokuapp.com/" className="cardBtn">Website</a>
+								<a href=" https://desolate-headland-54764.herokuapp.com/notes" className="cardBtn">Website</a>
 								<a href="https://github.com/Mekonnenke/express_note_taker" className="cardBtn">Source</a>
 							</div>
 						</div>
@@ -79,14 +79,14 @@ export default function Cards() {
 				</div>
 
 				<div className="card bg-secondary border-dark" style={{ width: '22rem' }}>
-					<img src="./images/image-2.JPG" className="card-img-top taskination" alt="..." />
+					<img src="./images/image-2.JPG" className="card-img-top noteImg" alt="..." />
 					<div className="card-body">
-						<h5 className="cardTitle text-center">Taskination</h5>
-						{ <p className="cardText">This Html app developed for code Bootcamping.</p> }
+						<h5 className="cardTitle text-center">Car dealer app</h5>
+						{ <p className="cardText">This group project developed user to access cars information from a car dealer app..</p> }
 						<div className="container">
 							<div className="row justify-content-center">
-								<a href="https://mekonnenke.github.io/HTML_CSS-_challengeAssignmnet/" className="cardBtn">Website</a>
-								<a href="https://github.com/Mekonnenke/HTML_CSS-_challengeAssignmnet" className="cardBtn">Source</a>
+								<a href=" https://stormy-tundra-79706.herokuapp.com/" className="cardBtn">Website</a>
+								<a href="https://github.com/mikekhoury135/Project_2_Group_5" className="cardBtn">Source</a>
 							</div>
 						</div>
 					</div>
