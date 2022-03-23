@@ -20,7 +20,7 @@
 }
 
 .portCont .topNav {
-  border-bottom: 3px outset #5d0756;
+  border-bottom: 3px outset #45075d;
 }
 
 .nav-item a {
@@ -29,7 +29,7 @@
 }
 
 .nav-item .active {
-  color: rgb(184, 95, 95);
+  color: rgb(184, 95, 184);
 }
 
 div h1 p {
@@ -43,7 +43,7 @@ div h1 p {
 .profilePic {
 	float: left;
 	margin: 10px 25px 15px 0px;
-	max-width: 13rem;
+	max-width: 15rem;
 	border-radius: 5rem;
 	border-width: 10px;
 	border-style: solid double;

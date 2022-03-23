@@ -40,7 +40,7 @@ export default function Cards() {
 						{ <p className="cardText">This app develop to keep notes and important info. </p> }
 						<div className="container">
 							<div className="row justify-content-center">
-								<a href=" https://desolate-headland-54764.herokuapp.com/notes" className="cardBtn">Website</a>
+								<a href=" https://stormy-tundra-79706.herokuapp.com/" className="cardBtn">Website</a>
 								<a href="https://github.com/Mekonnenke/express_note_taker" className="cardBtn">Source</a>
 							</div>
 						</div>

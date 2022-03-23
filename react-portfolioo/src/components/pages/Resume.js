@@ -1,5 +1,5 @@
 import React from 'react';
-// import { FaFileDownload } from 'react-icons/fa';
+import { FaFileDownload } from 'react-icons/fa';
 
 export default function Resume() {
 	return (
@@ -57,8 +57,8 @@ export default function Resume() {
 
 
 				<h5>Download My Full Resume</h5>
-				<a className="iconLink" href='./files/Mekonnen Mohammed Resume 2022.pdf' download="Mekonnen Mohammed 2022">
-					{/* <FaFileDownload size={85} /> */}
+				<a className="iconLink" href='./files/Mekonnen resume 2022.pdf' download="Mekonnen resume 2022">
+					{ <FaFileDownload size={85} /> }
 				</a>
 
 			</div>
